@@ -1,1 +1,1 @@
-print('Это файл репозитория GitHub')
+print('Это файл репозитория GitHub modified')
